@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Setup 
 
-Clone the repository to your local machine
-Install all dependencies with npm i
-Start the development server with npm start
+Clone the repository to your local machine\
+Install all dependencies with npm i\
+Start the development server with npm start\
 
 ## Available Scripts
 
